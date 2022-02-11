@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="left">
+  <img alt="Top Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleamDream&layout=compact&theme=dark"/>
+  <img alt="Anurag's GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=GleamDream&theme=dark&show_icons=true"/>
+</p>
 
 <!--
 **GleamDream/GleamDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
